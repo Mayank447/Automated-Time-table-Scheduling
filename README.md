@@ -1,4 +1,4 @@
-# Genetic-Algorithm-based-Automated-Time-table-scheduling
+# Automated-Time-table-scheduling
 
 The purpose of this project is to generate an automated timetable for a school/college just given no. of lectures conducted per subject for a class and by which teacher. This data is stored in a MySQL Database and from there can be fetched into Python. We primary use a backtracking algorithm to help schedule the time table. Many further optimizations like limiting number of lectures for a particular subject in a day can also be added. 
 
@@ -14,6 +14,6 @@ The need for Computerization of Scheduling arises from the fact that many School
 
 While researching for the project, I came across many techniques which can be used to enhance our Project. Our Project lacks in optimising the solution.  
 
-Various Algorithms like Genetic Algorithm can be used to improve the result and make the system learn from previous results. Further Machine Learning can be used in handy way to optimise the solution.  
+Various Algorithms like Genetic Algorithm(which I'm working on) can be used to improve the result and make the system learn from previous results. Further Machine Learning can be used in handy way to optimise the solution.  
 
 The System can also be further developed to help in Substitution Scheduling. This basic model of can also be used to schedule other various kinds of activities like Flight Management, Traffic Light Scheduling based upon no. of vehicles.  The various possibilities are endless.  
